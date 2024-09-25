@@ -12,11 +12,26 @@
   </a>
   
   <a href="https://t.me/vildanaraz">
-    <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram"/>
   </a>
  
 </div>
  
+---
+
+## Skills
+| Soft Skills | Hard Skills |
+| :--------: | :-------: | 
+| Active listening | Python
+|Effective communication skills | SQL
+|Attention to detail | Statistics
+|Empathy | PowerBI
+|Helping people | HTML and CSS
+|Problem solving | Jira
+|Proritization | Agile Methodologies
+|Starting from scratch|BPMN and UML
+
+
 ---
 
 - 👋 Hi, I’m Vildana Razumova
