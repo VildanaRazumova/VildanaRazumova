@@ -24,7 +24,7 @@
   I fell in love with this atmosphere and the vibe
 - 🌱 I’m currently learning Data Science at Gisma University
 - 💞️ I’m looking to collaborate on IT teams and people from different countries
-- :mortar_board: Fact: I'm 34 years old and I am still a student, the main reason for this fact is my passion for new knowledge.
+- :mortar_board: Fact: I'm 34 years old and I am still a student, the main reason for this fact is my passion for a new knowledge.
 ___
   
 ## *Skills*
