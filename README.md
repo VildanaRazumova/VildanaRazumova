@@ -43,8 +43,8 @@ ___
 
 | Name | Description | Tools |
 | :--------: | :-------: | :-------: |
-|     [Social media usage and Emotional Well-Being](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/comments-classification) | understanding the emotional well-being of a group of people who are involved in social media life | 
-          |            |             |
+|     [Social media usage and Emotional Well-Being](Social_media_usage_and_Emotional_Well_Being.ipynb) | understanding the emotional well-being of a group of people who are involved in social media life | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+|            |             |
 
 
 
@@ -52,3 +52,4 @@ ___
 VildanaRazumova/VildanaRazumova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
