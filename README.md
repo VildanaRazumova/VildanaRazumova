@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VildanaRazumova
+- 👋 Hi, I’m Vildana Razumova
 - 👀 I’m interested in Data and Beautiful stuff (Home interior and Fashion)
 - 🌱 I’m currently learning Data Science at Gisma University
 - 💞️ I’m looking to collaborate on IT teams and people from different countries
