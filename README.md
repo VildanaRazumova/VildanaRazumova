@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning Data Science at Gisma University
 - 💞️ I’m looking to collaborate on IT teams and people from different countries
 - :mortar_board: Fact: I'm 34 years old and I am still a student, the main reason for this fact is my passion for a new knowledge.
-- [Social media usage and Emotional Well-Being](Social_media_usage_and_Emotional_Well_Being.ipynb) | understanding the emotional well-being of a group of people who are involved in social media life | <img src="https://drive.google.com/file/d/1lJlvQ3t-z32db-UZIFZP3l-OQ2MCXQFP/view?usp=share_link" title="University admitted" alt="admitted" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+- [University admitted]|  | <img src="https://drive.google.com/file/d/1lJlvQ3t-z32db-UZIFZP3l-OQ2MCXQFP/view?usp=share_link" title="University admitted" alt="admitted" width="40" height="40"/>&nbsp;
 
 ___
   
