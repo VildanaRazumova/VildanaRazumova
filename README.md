@@ -48,6 +48,10 @@ ___
 |     [Social media usage and Emotional Well-Being](Social_media_usage_and_Emotional_Well_Being.ipynb) | Understanding the emotional well-being of a group of people who are involved in social media life | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 |            |             | 
 |     [Digital strategic business initiative for operational risk management](https://drive.google.com/file/d/11d39lt0i33Psx2tnwdkzBuJPWrU2Lx2t/view?usp=share_link) | A strategic business approach for managing operational risks |
+|            |             | 
+|     🚢 [Titanic Competition](https://gist.githubusercontent.com/VildanaRazumova/f98149549b77531aeac1956f939cbdee/raw/93895895e96f89f914ec2aca0f9cf9cc7835afef/titanic_competition.ipynb) | The first machine learning model for Titanic survival prediction | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/> &nbsp;
+
+
 
 
 <!---
