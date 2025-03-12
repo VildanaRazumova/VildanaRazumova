@@ -18,7 +18,7 @@
 </div>
  
 ---
-- 👋 Hi, I’m Vildana Razumova. :bar_chart: [Beauty Presentation about my career path](https://drive.google.com/file/d/1K5shfdGOGdYarg0MSNie0pHaCpaeF60H/view?usp=share_link). 
+- 👋 Hi, I’m Vildana Razumova. :bar_chart: [The Story of My Career: A Visual Presentation](https://drive.google.com/file/d/1K5shfdGOGdYarg0MSNie0pHaCpaeF60H/view?usp=share_link). 
 - 👀 I’m interested in Data and Beautiful stuff (Home interior and Fashion)
 - :bank: In my previous life I was working 10 years at the banking sector, but when I tried working in an IT Startup,
   I fell in love with this atmosphere and the vibe
@@ -46,8 +46,8 @@ ___
 | Name | Description | Tools |
 | :--------: | :-------: | :-------: |
 |     [Social media usage and Emotional Well-Being](Social_media_usage_and_Emotional_Well_Being.ipynb) | understanding the emotional well-being of a group of people who are involved in social media life | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-|            |             |
-
+|            |             | 
+| 📂 [Digital strategic business initiative for operational risk management](https://drive.google.com/file/d/11d39lt0i33Psx2tnwdkzBuJPWrU2Lx2t/view?usp=share_link) | A strategic business approach for managing operational risks |
 
 
 <!---
