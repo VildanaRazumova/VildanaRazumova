@@ -1,13 +1,13 @@
 # Vildana Razumova
 
-## *Data Analyst*
+## *Data Analyst | Risk & Business Insights*
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vildanarazumova">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://drive.google.com/file/d/1aELFLox5WnuLozUKgaz-vvT6nr6H4pFM/view?usp=share_link">
+  <a href="https://docs.google.com/document/d/1h07fKKc8vJEFao5SeaGyjztznpDzFl2v/edit?usp=sharing&ouid=105776081228070171338&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a>
   
