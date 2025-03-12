@@ -18,7 +18,7 @@
 </div>
  
 ---
-- 👋 Hi, I’m Vildana Razumova
+- 👋 Hi, I’m Vildana Razumova. :bar_chart: [Beauty Presentation about my career path](https://drive.google.com/file/d/1K5shfdGOGdYarg0MSNie0pHaCpaeF60H/view?usp=share_link). 
 - 👀 I’m interested in Data and Beautiful stuff (Home interior and Fashion)
 - :bank: In my previous life I was working 10 years at the banking sector, but when I tried working in an IT Startup,
   I fell in love with this atmosphere and the vibe
