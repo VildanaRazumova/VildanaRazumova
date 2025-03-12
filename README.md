@@ -25,7 +25,8 @@
 - 🌱 I’m currently learning Data Science at Gisma University
 - 💞️ I’m looking to collaborate on IT teams and people from different countries
 - :mortar_board: Fact: I'm 34 years old and I am still a student, the main reason for this fact is my passion for a new knowledge.
-- [University admitted]|  | <img src="https://drive.google.com/file/d/1lJlvQ3t-z32db-UZIFZP3l-OQ2MCXQFP/view?usp=share_link" title="University admitted" alt="admitted" width="40" height="40"/>&nbsp;
+- ![admitted](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/40px-PDF_file_icon.svg.png)  
+  [University admitted](https://drive.google.com/file/d/1lJlvQ3t-z32db-UZIFZP3l-OQ2MCXQFP/view?usp=share_link)
 
 ___
   
