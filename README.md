@@ -50,7 +50,8 @@ ___
 |     [Digital strategic business initiative for operational risk management](https://drive.google.com/file/d/11d39lt0i33Psx2tnwdkzBuJPWrU2Lx2t/view?usp=share_link) | A strategic business approach for managing operational risks |
 |            |             | 
 |     🚢 [Titanic Competition](https://gist.github.com/VildanaRazumova/f98149549b77531aeac1956f939cbdee) | The first machine learning model for Titanic survival prediction using Decision Tree | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>
-
+|            |             | 
+|     🚢 [Fraud Transaction Classification Using Machine Learning](https://gist.github.com/VildanaRazumova/f98149549b77531aeac1956f939cbdee) | Quickly identify fraudulent transactions by analyzing patterns. | <img src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python](https://gist.github.com/VildanaRazumova/c84334373f6dcb14fdb207dadfe3c345)" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>
 
 
 
