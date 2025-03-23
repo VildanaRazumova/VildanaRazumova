@@ -1,6 +1,6 @@
 # Vildana Razumova
 
-## *Data Analyst | Risk & Business Insights*
+## *Aspiring Data Scientist | Passionate about Risk & Business Insights | MSc Data Science and AI Student | Eager to Learn & Contribute*
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vildanarazumova">
@@ -20,9 +20,9 @@
 ---
 - 👋 Hi, I’m Vildana Razumova. :bar_chart: [The Story of My Career: A Visual Presentation](https://drive.google.com/file/d/1K5shfdGOGdYarg0MSNie0pHaCpaeF60H/view?usp=sharing). 
 - 👀 I’m interested in Data and Beautiful stuff (Home interior and Fashion)
-- :bank: In my previous life I was working 10 years at the banking sector, but when I tried working in an IT Startup,
-  I fell in love with this atmosphere and the vibe
-- 🌱 I’m currently learning Data Science at Gisma University
+- :bank: In my previous life, I spent 10 years working in the banking sector (Accounting Analyst+Risk Analyst). Later, I made a career switch into Project Management, where I led cross-functional IT initiatives.
+- 📊 Today, I’m passionate about Data Analysis and Data Science, combining my domain knowledge with technical skills to extract insights and solve real-world problems.
+- 🌱 I’m learning Data Science at Gisma University (Berlin+Online+Part time)
 - 💞️ I’m looking to collaborate on IT teams and people from different countries
 - :mortar_board: Fact: I'm 34 years old and I am still a student, the main reason for this fact is my passion for a new knowledge.
 - :school: [LETTER OF ADMISSION](https://drive.google.com/file/d/1lJlvQ3t-z32db-UZIFZP3l-OQ2MCXQFP/view?usp=share_link).
