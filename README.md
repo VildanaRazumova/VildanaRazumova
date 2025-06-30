@@ -18,13 +18,13 @@
 </div>
  
 ---
-- 👋 Hi, I’m Vildana Razumova. :bar_chart: [The Story of My Career: A Visual Presentation](https://drive.google.com/file/d/1K5shfdGOGdYarg0MSNie0pHaCpaeF60H/view?usp=sharing). 
-- 👀 I’m interested in Data and Beautiful stuff (Home interior and Fashion)
+- 👋 Hi, I’m Vildana Razumova. :bar_chart: [The Story of My Career: A Visual Presentation](https://drive.google.com/file/d/1UJl3om3CJNjteJuGjHCS3UtWIllSc2dw/view?usp=sharing). 
+- 👀 I’m interested in Data and Beautiful stuff (Home interior)
 - :bank: In my previous life, I spent 10 years working in the banking sector (Accounting Analyst+Risk Analyst). Later, I made a career switch into Project Management, where I led cross-functional IT initiatives.
 - 📊 Today, I’m passionate about Data Analysis and Data Science, combining my domain knowledge with technical skills to extract insights and solve real-world problems.
 - 🌱 I’m learning Data Science at Gisma University (Berlin+Online+Part time)
 - 💞️ I’m looking to collaborate on IT teams and people from different countries
-- :mortar_board: Fact: I'm 34 years old and I am still a student, the main reason for this fact is my passion for a new knowledge.
+- :mortar_board: Fact: I'm 35 years old and I am still a student, the main reason for this fact is my passion for a new knowledge.
 - :school: [LETTER OF ADMISSION](https://drive.google.com/file/d/1lJlvQ3t-z32db-UZIFZP3l-OQ2MCXQFP/view?usp=share_link).
 
 ___
@@ -45,12 +45,13 @@ ___
 
 | Name | Description | Tools |
 | :--------: | :-------: | :-------: |
+|     [Convolutional NN: Detection and Prediction of Driver Drowsiness](https://gist.github.com/VildanaRazumova/7e4ee7c1699933c47f56fe9374b1c9d1.js) | Neural Network task using CNN - for Image and Visual Pattern Recognition | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>
 |     [Fraud Transaction Classification Using Machine Learning](https://gist.github.com/VildanaRazumova/c84334373f6dcb14fdb207dadfe3c345) | Quickly identify fraudulent transactions by analyzing patterns. Step-by-step Development Pipeline for ML | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python](https://gist.github.com/VildanaRazumova/c84334373f6dcb14fdb207dadfe3c345)" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>
 |     [Social media usage and Emotional Well-Being](Social_media_usage_and_Emotional_Well_Being.ipynb) | Understanding the emotional well-being of a group of people who are involved in social media life | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 |     [Digital strategic business initiative for operational risk management](https://drive.google.com/file/d/11d39lt0i33Psx2tnwdkzBuJPWrU2Lx2t/view?usp=share_link) | A strategic business approach for managing operational risks | Design Thinking Approach, AS-IS, TO-BE Diagram, Impact Business Model, KPI
 |     [Social media usage and Emotional Well-Being](Social_media_usage_and_Emotional_Well_Being.ipynb) | Understanding the emotional well-being of a group of people who are involved in social media life | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 |     [FROM VIEWS TO PURCHASES: UNCOVERING KEY BEHAVIORAL STAGES IN E-COMMERCE CUSTOMER JOURNEYS](https://gist.github.com/VildanaRazumova/84cb930af69423fa532f6f2d49e62d03) | Exploratory data analysis RetailRocket dataset | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python](https://gist.github.com/VildanaRazumova/c84334373f6dcb14fdb207dadfe3c345)" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/> 
-|     🚢 [Convolutional NN: Detection and Prediction of Driver Drowsiness](https://gist.github.com/VildanaRazumova/7e4ee7c1699933c47f56fe9374b1c9d1.js) | Neural Network task using CNN - for Image and Visual Pattern Recognition | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>
+
 
 
 <!---
