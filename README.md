@@ -1,6 +1,6 @@
 # Vildana Razumova
 
-## * Data Scientist | Passionate about Risk & Business Insights | MSc Data Science and AI *
+##  Data Scientist | Passionate about Risk & Business Insights | MSc Data Science and AI 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vildanarazumova">
