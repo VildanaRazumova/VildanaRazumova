@@ -22,10 +22,7 @@
 - 👀 I’m interested in Data and Beautiful stuff (Home interior)
 - :bank: In my previous life, I spent 10 years working in the banking sector (Accounting Analyst+Risk Analyst). Later, I made a career switch into Project Management, where I led cross-functional IT initiatives.
 - 📊 Today, I’m passionate about Data Analysis and Data Science, combining my domain knowledge with technical skills to extract insights and solve real-world problems.
-- 🌱 I’m learning Data Science at Gisma University (Berlin+Online+Part time)
-- 💞️ I’m looking to collaborate on IT teams and people from different countries
 - :mortar_board: Fact: I'm 35 years old and I am still a student, the main reason for this fact is my passion for a new knowledge.
-- :school: [LETTER OF ADMISSION](https://drive.google.com/file/d/1lJlvQ3t-z32db-UZIFZP3l-OQ2MCXQFP/view?usp=share_link).
 
 ___
   
